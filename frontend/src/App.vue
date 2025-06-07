@@ -6,7 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <header>
     <div class="wrapper">
-      <h1>Hellooooo</h1>
+      <h1>Testing 123</h1>
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
