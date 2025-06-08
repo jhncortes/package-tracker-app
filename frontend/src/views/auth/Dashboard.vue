@@ -1,4 +1,6 @@
-<script setup lang="ts"></script>
-<template>
-  <h1>Dashboard</h1>
+<script setup lang="ts">
+import Navbar from '@/components/Navbar.vue'
+</script>
+<template class="dark">
+  <Navbar />
 </template>
